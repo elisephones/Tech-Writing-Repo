@@ -30,7 +30,7 @@ You do not need to be technical to follow it. Each phase below tells you what to
 | 2 | Assess your content | Gather and vet the documents that will answer users' questions. |
 | 3 | Define metadata | Describe each document so the assistant knows when to use it. |
 | 4 | Upload your content | Move approved documents into your designated SharePoint folder. |
-| 5 | Validate the assistant | Test with your SMEs to confirm answers are accurate. |
+| 5 | Validate the assistant | Test with your Subject Matter Experts to confirm answers are accurate. |
 | 6 | Launch | Open the assistant to all intended users and show them how to use it. |
 | 7 | Maintain | Keep content current so answers stay accurate over time. |
 
@@ -80,7 +80,7 @@ Define the types of questions your audience may have, then confirm your content 
 
 > **EXAMPLE**
 >
-> Say you are building a Knowledge Assistant for ME&T associates, scoped to the Client Communications domain. You might expect questions like:
+> Say you are building a Knowledge Assistant for Communication associates, scoped to the Client Communications domain. You might expect questions like:
 >
 > **"I need help sending a client communication."**
 >
@@ -117,7 +117,7 @@ For each document in your Knowledge Base, define the following:
 
 | Field | Description | Example |
 |---|---|---|
-| **Document Name** | Title of the document | Claims Adjustment Escalation Path |
+| **Document Name** | Title of the document | Claims Escalation Path |
 | **Knowledge Base** | Name of the Knowledge Base | Claims Knowledge Base |
 | **Owner** | Who maintains it | Abby Smith |
 | **Business Area** | What function it supports | Claims |
